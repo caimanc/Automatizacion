@@ -37,10 +37,15 @@ html {
     }
   }
   
-  .limitedOffer {
+  .login {
     font-size: 20px;
     border-bottom: 2px solid green;
     cursor: pointer;
+  }
+  .car{
+        font-size: 20px;
+        border-bottom: 2px solid red;
+        cursor: pointer;
   }
   
   .navBottom {
@@ -104,9 +109,9 @@ html {
     left: 10%;
     font-size: 60px;
     font-weight: 300;
-    text-align: center;
+    text-align: right;
     color: white;
-    border: 1px solid gray;
+    
     z-index: 1;
   }
   
